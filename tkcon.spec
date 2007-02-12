@@ -1,5 +1,5 @@
 Summary:	Enhanced Tk console
-Summary(pl.UTF-8):   Rozszerzona konsola Tk
+Summary(pl.UTF-8):	Rozszerzona konsola Tk
 Name:		tkcon
 Version:	2.4
 Release:	1
