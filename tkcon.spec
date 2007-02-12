@@ -1,5 +1,5 @@
 Summary:	Enhanced Tk console
-Summary(pl):	Rozszerzona konsola Tk
+Summary(pl.UTF-8):   Rozszerzona konsola Tk
 Name:		tkcon
 Version:	2.4
 Release:	1
@@ -17,10 +17,10 @@ tkcon is a replacement for the standard console that comes with Tk (on
 Windows/Mac, but also works on Unix). The console itself provides many
 more features than the standard console.
 
-%description -l pl
-Tkcon jest odpowiednikiem standardowej konsoli Tk (dostêpnej domy¶lnie
-w systemach Windows i Macintosh - ta dzia³a tak¿e w systemach
-uniksowych), o wiele wiêkszej funkcjonalno¶ci.
+%description -l pl.UTF-8
+Tkcon jest odpowiednikiem standardowej konsoli Tk (dostÄ™pnej domyÅ›lnie
+w systemach Windows i Macintosh - ta dziaÅ‚a takÅ¼e w systemach
+uniksowych), o wiele wiÄ™kszej funkcjonalnoÅ›ci.
 
 %prep
 %setup -q
